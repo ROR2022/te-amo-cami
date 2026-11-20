@@ -16,8 +16,8 @@ export const serie = {
   badges: ["Original", "98% para ti", "2 temporadas", "HD"],
   heroImage: "/foto04.jpeg",
   cast: [
-    { name: "Gabo", role: "Protagonista", photo: "/Gabo01.jpeg" },
-    { name: "CAMI", role: "Protagonista", photo: "/CAMI01.jpeg" },
+    { name: "Gabo", role: "Protagonista", photo: "/gabo01.jpeg" },
+    { name: "CAMI", role: "Protagonista", photo: "/cami01.jpeg" },
     {
       name: "Nuestro cómplice",
       role: "Estrella invitada",
